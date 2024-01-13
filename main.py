@@ -12,7 +12,7 @@ api_id = 10610651 # 請替換成自己api_id
 api_hash = '7b0c7355c1b140db1eafb476469e5402' # 請替換成自己api_hash
 
 # 群組列表
-chat_list = ['https://t.me/+0oZhHr-671syODU0'] # 請替換成自己想要監聽群組
+chat_list = ['https://t.me/+c-eZpIB3owk3ZTQ0'] # 請替換成自己想要監聽群組
 
 # 計算檔案大小
 def convert_size(text):
